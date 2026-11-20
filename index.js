@@ -1,7 +1,8 @@
 
-const choices=document.querySelectorAll(".choice");
-const userscore= document.querySelector("#user-score");
-const computerscore= document.querySelector("#computer-score");
+const choices = document.querySelectorAll(".choice");
+const userscore = document.querySelector("#user-score");
+const computerscore = document.querySelector("#computer-score");
+const msg = document.querySelector("#msg");
 
 
 
