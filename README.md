@@ -2,6 +2,9 @@
 
 A simple, fun, and interactive **Rock Paper Scissors** web game built with Vanilla JavaScript, HTML5, and CSS3. Play against the computer and track your score in real time!
 
+for live
+" https://rakib24299.github.io/Rock-paper-scissors/"
+
 ---
 
 ## 🎮 Features
